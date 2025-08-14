@@ -1,4 +1,4 @@
-file_searcher.py is a Python 3 script designed to locate and interact with files within the current directory and all its subdirectories. It provides a simple command-line interface that allows users to search for a file by name and then choose one of three actions:
+File_searcher.py is a Python 3 script designed to locate and interact with files within the current directory and all its subdirectories. It provides a simple command-line interface that allows users to search for a file by name and then choose one of three actions:
 
 Modify (m) – Append custom text to the end of the file without removing any existing content.
 
