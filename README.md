@@ -8,3 +8,4 @@ Delete (d) – Permanently remove the file from the system after a confirmation 
 
 Important Note: This tool only searches for files within the directory where the script is executed and its subdirectories. It does not scan your entire system or other unrelated directories. This is my first hacking script, and future updates will expand its capabilities.
 
+<img width="510" height="197" alt="Screenshot 2025-08-01 201116" src="https://github.com/user-attachments/assets/e8b6f5c9-85cf-4068-afe1-b74849e278fa" />
